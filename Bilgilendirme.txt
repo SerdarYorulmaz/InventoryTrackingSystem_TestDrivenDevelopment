@@ -1,0 +1,25 @@
+
+--Girisler icin:
+
+
+Admin:(kullanici eklemeden ekleme yapýlabilir)
+ Rol:1 
+
+ kullanici adi:mert09
+ sifre:12345
+----------------------
+SatinAlmaPersoneli:
+  Rol:2
+  kullanici adi:serdar10
+  sifre:54321
+----------------------
+BolumYoneticisi:
+  Rol:3
+  kullanici adi:derya
+  sifre:12345
+
+---Birim Testi icin:
+
+StoktakipTest classinda  testlerin calismasi icin gereken aciklamalar yorum satirina yazdim.(Hata mesajý gönderdiginde test baþarýlý oluyor)
+Test iþlemlerinde bilgileri veritabanindan alýp oyle test iþlemi gerçekleþtiriliyor.
+
